@@ -1,0 +1,94 @@
+{
+  "songs": [
+    {
+      "title": "Samurai Champloo",
+      "subtitle": "shiki no Uta",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/a4khw351hTizpWJKZCEUFlNpCdBdgZODIXDG2vXB.png",
+      "audioUrl": "https://a.animethemes.moe/SamuraiChamploo-ED1-NCBD1080.ogg"
+    },
+    {
+      "title": "One Piece",
+      "subtitle": "Opening 1",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/Wt5oiJVYw1ZbaWXNua7GSg9OCYx1JKooiNU5UmSp.jpg",
+      "audioUrl": "https://a.animethemes.moe/OnePiece-OP21.ogg"
+    },
+    {
+      "title": "Shingeki no Kyojin: The Final Season",
+      "subtitle": "The Rumbling",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/IFnIkJhZm5TSVM7eZgzX1RgRR05fLLluwFtReSS9.png",
+      "audioUrl": "https://a.animethemes.moe/ShingekiNoKyojinS4-OP1.ogg"
+    },
+    {
+      "title": "Spy x Family",
+      "subtitle": "Opening 1",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/s481umbdgWIWwMDPwzPgu1EZEvxKq4Zy2coxs255.png",
+      "audioUrl": "https://a.animethemes.moe/SpyXFamily-OP1.ogg"
+    },
+    {
+      "title": "Vinland Saga",
+      "subtitle": "Drown milet",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/oo9llPii2BWD2J2yaPmk1ceBEmfMIxz04zg9Qv8A.jpg",
+      "audioUrl": "https://a.animethemes.moe/VinlandSaga-ED1-NCBD1080.ogg"
+    },
+    {
+      "title": "Tengoku Daimakyou",
+      "subtitle": "innocence and ignorance",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/Pbmff1roX7ys7dcoQjl3tFmOamgvweMqBFNeOn7z.jpg",
+      "audioUrl": "https://a.animethemes.moe/TengokuDaimakyou-OP1-NCBD1080.ogg"
+    },
+    {
+      "title": "Darling in the FranXX",
+      "subtitle": "jinji Utada",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/uDeCCWbGfzZB9V3zzlH2Z1irZaFbDyv1NW9ewE0e.png",
+      "audioUrl": "https://a.animethemes.moe/DarlingInTheFranXX-OP1-NCBD1080.ogg"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "subtitle": "Midnight Tomorrow",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/QalPZOn9JlcjCZX9KXDay5V6XRH3dDTrYhykTdZt.jpg",
+      "audioUrl": "https://a.animethemes.moe/CyberpunkEdgerunners-OP1.ogg"
+    },
+    {
+      "title": "Overlord",
+      "subtitle": "Sawano Hiyorimo",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/fbPWhD9ewuWOwk4VfyoprTtKXUFbXhLzMFiBDlEB.jpg",
+      "audioUrl": "https://a.animethemes.moe/Overlord-OP1.ogg"
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "subtitle": "Unravel",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/lXVlVtsCoYd2kmM4QsbXWqd63eJu2rX6OXZkia0k.jpg",
+      "audioUrl": "https://a.animethemes.moe/TokyoGhoul-OP1.ogg"
+    },
+    {
+      "title": "Domestic na Kanojo",
+      "subtitle": "crying in the rain",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/C7NpeLDtyZhLmebEC8o6yxchIw4az4WMWkOJqhIE.jpg",
+      "audioUrl": "https://a.animethemes.moe/DomesticNaKanojo-OP1-NCBD1080.ogg"
+    },
+    {
+      "title": "Serial Experiments Lain",
+      "subtitle": "Duvet",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/Ode57PQxwHu9VzrdfwhhNER5SWQm8dpIHebw2rkF.png",
+      "audioUrl": "https://a.animethemes.moe/SerialExperimentsLain-OP1.ogg"
+    },
+    {
+      "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "subtitle": "Tsubana",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/EFbnuEwjyotv5FfMEgEKU2NgDEuRGKx5HocAQmVu.png",
+      "audioUrl": "https://a.animethemes.moe/ShingekiNoKyojinS4-OP1.ogg"
+    },
+    {
+      "title": "Oshi no Ko",
+      "subtitle": "idol",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/KZ2cO6LbgXo2oevDokEfaaPxxUt9uL6989SL3DxD.png",
+      "audioUrl": "https://a.animethemes.moe/OshiNoKo-OP1-NCBD1080.ogg"
+    },
+    {
+      "title": "Beastars",
+      "subtitle": "Yosaboni",
+      "imageUrl": "https://pub-92474f7785774e91a790e086dfa6b2ef.r2.dev/anime/large-cover/zLzyhcaEhTz2g2ZuMACUzEPXRd15otXxcotjk3l1.png",
+      "audioUrl": "https://a.animethemes.moe/Beastars-OP1-NCBD1080.ogg"
+    }
+  ]
+}
